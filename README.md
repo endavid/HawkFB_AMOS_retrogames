@@ -24,3 +24,7 @@ Amiga binaries
 You can find the original games in my home page: http://endavid.com/lists/works.html
 
 
+Value
+------
+Please don't use this source code as coding examples. This old code is embarrassing, and I just release it as a curiosity from the past. I searched through some old Amiga floppy disks, and somehow managed to recover these old files. Reading this source code now is somehow like reading an old diary written when I was a kid. It's kind of funny, but interesting in order to understand my own personal progress as a programmer.
+
