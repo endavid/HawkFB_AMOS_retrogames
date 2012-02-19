@@ -19,3 +19,8 @@ Directory structure
 -------------------
 * Each folder contains a different game.
 
+Amiga binaries
+---------------
+You can find the original games in my home page: http://endavid.com/lists/works.html
+
+
